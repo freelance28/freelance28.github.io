@@ -8,7 +8,7 @@ tags: [tag1, tag2]                 # Optional
 ---
 
 ## Introduction
-SO WHAT IS STATISTIC
+SO WHAT IS STATISTIC is it DIfficult ?
 
 ### Subheader
 - Use Markdown for **formatting**.
