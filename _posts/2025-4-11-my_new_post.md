@@ -2,7 +2,7 @@
 layout: post
 title: "Now we Begin"
 date: 2025-4-11
-author: 
+
 categories: [Category1, Category2]  # Optional
 tags: [tag1, tag2]                 # Optional
 ---
